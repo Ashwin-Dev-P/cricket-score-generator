@@ -1,0 +1,9 @@
+header {
+	background-color: var(--primary-color);
+	box-shadow: 1px 1px 1px 1px gray;
+}
+
+h1 {
+	padding: 5%;
+	color: white;
+}

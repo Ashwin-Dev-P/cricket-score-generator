@@ -1,0 +1,58 @@
+.my-rounded-button {
+	border-radius: 50%;
+	padding: 5%;
+}
+
+.my-rounded-btns-div {
+	width: 90%;
+	margin: 5%;
+}
+
+.my-rounded-btns-div > button {
+	border-radius: 50%;
+	padding: 5%;
+	background-color: var(--primary-color);
+	color: #ffffff;
+}
+
+.runs-flex-container {
+	flex: 20% 15% 15% 15% 15%;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.flex-item {
+	width: 16%;
+	margin: 2%;
+}
+
+.wide-btn {
+	width: 40%;
+	margin: 5% 2.5% 5% 7.5%;
+	padding: 3%;
+	border-radius: 10px;
+	background-color: var(--primary-color);
+	color: #ffffff;
+}
+
+.wide-btn2 {
+	width: 40%;
+	margin: 5% 7.5% 5% 2.5%;
+	padding: 3%;
+	border-radius: 10px;
+	background-color: var(--primary-color);
+	color: #ffffff;
+}
+
+.wicket-btn {
+	background-color: red;
+	color: white;
+
+	font-size: 150%;
+	padding: 5%;
+	width: 90%;
+	margin: 5% 5%;
+
+	border: 2px solid white;
+	border-radius: 12px;
+}
