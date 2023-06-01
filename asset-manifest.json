@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a548d3c.css",
-    "main.js": "/static/js/main.1d5a3fe9.js",
-    "static/js/787.f6b2b0b9.chunk.js": "/static/js/787.f6b2b0b9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.2a548d3c.css.map": "/static/css/main.2a548d3c.css.map",
-    "main.1d5a3fe9.js.map": "/static/js/main.1d5a3fe9.js.map",
-    "787.f6b2b0b9.chunk.js.map": "/static/js/787.f6b2b0b9.chunk.js.map"
+    "main.css": "/cricket-score-generator/static/css/main.2a548d3c.css",
+    "main.js": "/cricket-score-generator/static/js/main.efa1be33.js",
+    "static/js/787.f6b2b0b9.chunk.js": "/cricket-score-generator/static/js/787.f6b2b0b9.chunk.js",
+    "static/media/logo.svg": "/cricket-score-generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cricket-score-generator/index.html",
+    "main.2a548d3c.css.map": "/cricket-score-generator/static/css/main.2a548d3c.css.map",
+    "main.efa1be33.js.map": "/cricket-score-generator/static/js/main.efa1be33.js.map",
+    "787.f6b2b0b9.chunk.js.map": "/cricket-score-generator/static/js/787.f6b2b0b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a548d3c.css",
-    "static/js/main.1d5a3fe9.js"
+    "static/js/main.efa1be33.js"
   ]
 }
